@@ -1,0 +1,15 @@
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\UserStore.DAL.dll.config
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\UserStore.DAL.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\UserStore.DAL.pdb
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\EntityFramework.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\EntityFramework.xml
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\obj\Debug\HotelBooking.DAL.csprojResolveAssemblyReference.cache
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\obj\Debug\HotelBooking.DAL.csproj.CoreCompileInputs.cache
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\obj\Debug\UserStore.DAL.dll
+C:\MyFIles\prog\С#\UserStore\HotelBooking.DAL\obj\Debug\UserStore.DAL.pdb
